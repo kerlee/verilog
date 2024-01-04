@@ -1,1 +1,1 @@
-# verilog
+一些Verilog模块的重构代码
